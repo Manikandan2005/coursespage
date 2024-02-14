@@ -1,0 +1,65 @@
+.links{
+    color: rgb(110, 103, 103);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    margin-right: 50px;
+}
+
+.container{
+  background-color: ghostwhite;
+  margin-bottom: 40px;
+  margin-left: 100px;
+  margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.custom-nav .nav-link:focus,
+.custom-nav .nav-link:hover {
+  color: green !important; 
+}
+
+.cards{
+    display:inline-flex;
+    margin-left:80px;
+    margin-bottom: 50px;
+    height: 430px;
+    width: 400px;
+    background-color: whitesmoke;
+}
+
+.logo{
+  height:200px !important;
+  width:1200px !important;
+  margin-left: 45px;
+  margin-bottom: 20px;
+  margin-top: 20px ;
+}
+
+.custom-nav{
+  margin-left: 250px;
+}
+
+.guvi{
+  height: 70px;
+  width: 70px;
+}
+
+.dd{
+  margin-left: 600px;
+}
+
+.hd{
+  margin-left: 25px;
+  font-weight: 600;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.hd  .nav-link:focus,
+.hd > .nav-link:hover {
+  color: green !important; /* Change color to green */
+}
+
+.footer{
+  margin-left: 85px;
+}
