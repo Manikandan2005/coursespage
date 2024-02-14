@@ -110,7 +110,7 @@ function App() {
     </Navbar>
           
           <div className='container'>
-          <img src='https://www.guvi.in/blog/wp-content/uploads/2022/10/blog-header-2048x315.png' alt="Logo" className="logo" />
+          <img src='https://eu-central.storage.cloudconvert.com/tasks/a1db30ef-557e-4b63-abb9-46f23be91259/headerimg.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240214%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20240214T123017Z&X-Amz-Expires=86400&X-Amz-Signature=2542d0f60eca418edb36827d15e0780514ab6d511993b455c8743ea75895e1ef&X-Amz-SignedHeaders=host&response-content-disposition=inline%3B%20filename%3D%22headerimg.jpg%22&response-content-type=image%2Fjpeg&x-id=GetObject' alt="Logo" className="logo" />
           <Nav variant="underline" defaultActiveKey="/" className='custom-nav'>
           <Nav.Item>
             <Nav.Link as={Link} to="/" className='links'>ALL</Nav.Link>
